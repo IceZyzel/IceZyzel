@@ -10,4 +10,4 @@
 ### rofls
 #### https://www.youtube.com/watch?v=RlCcAaqNLfA 
 #### https://vm.tiktok.com/ZM8whEaDr/
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zo7olie3ahb76hcz7fy56xlxvm&cover_image=true&theme=default&bar_color=8daef2)](https://spotify-github-profile.vercel.app/api/view?uid=31zo7olie3ahb76hcz7fy56xlxvm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zo7olie3ahb76hcz7fy56xlxvm&cover_image=true&theme=Novatorem&bar_color=8daef2)](https://spotify-github-profile.vercel.app/api/view?uid=31zo7olie3ahb76hcz7fy56xlxvm&redirect=true)
