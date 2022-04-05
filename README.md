@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-8DAEF2?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScipt-8DAEF2?style=for-the-badge&logo=JavaScript)
 
-rofls
-
-Follow me
+### rofls
+#### https://www.youtube.com/watch?v=RlCcAaqNLfA 
+#### https://vm.tiktok.com/ZM8whEaDr/
 
