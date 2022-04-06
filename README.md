@@ -11,3 +11,6 @@
 #### https://www.youtube.com/watch?v=RlCcAaqNLfA 
 #### https://vm.tiktok.com/ZM8whEaDr/
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zo7olie3ahb76hcz7fy56xlxvm&cover_image=true&theme=novatorem&bar_color=8daef2)](https://spotify-github-profile.vercel.app/api/view?uid=31zo7olie3ahb76hcz7fy56xlxvm&redirect=true)
+
+## Find me
+[![telegram](https://img.shields.io/badge/-telegram-8DAEF2?style=for-the-badge&logo=telegram)](https://t-do.ru/icezyzel)
