@@ -14,3 +14,4 @@
 
 ## Find me
 [![telegram](https://img.shields.io/badge/-telegram-8DAEF2?style=for-the-badge&logo=telegram)](https://t-do.ru/icezyzel)
+[![linkedin](https://img.shields.io/badge/-linkedin-8DAEF2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zyzel/)
