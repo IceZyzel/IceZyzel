@@ -6,6 +6,10 @@
 ### Languages and Tools 
 ![Python](https://img.shields.io/badge/-Python-8DAEF2?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScipt-8DAEF2?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-8DAEF2?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-8DAEF2?style=for-the-badge&logo=CSS)
+![Django](https://img.shields.io/badge/-Django-8DAEF2?style=for-the-badge&logo=Django)
+![React](https://img.shields.io/badge/-React-8DAEF2?style=for-the-badge&logo=React)
 
 ### rofls
 #### https://www.youtube.com/watch?v=RlCcAaqNLfA 
