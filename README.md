@@ -22,7 +22,7 @@ Passionate about automating deployments, scaling applications, and monitoring in
 ![React](https://img.shields.io/badge/-React-8DAEF2?style=for-the-badge&logo=react)
 
 ### 📫 Find me
-[![Telegram](https://img.shields.io/badge/-Telegram-8DAEF2?style=for-the-badge&logo=telegram)](https://t-do.ru/zyzelq)
+[![Telegram](https://img.shields.io/badge/-Telegram-8DAEF2?style=for-the-badge&logo=telegram)](https://t.me/zyzelq)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-8DAEF2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zyzel/)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zo7olie3ahb76hcz7fy56xlxvm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=8daef2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
