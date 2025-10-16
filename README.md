@@ -28,3 +28,4 @@ Passionate about automating deployments, scaling applications, and monitoring in
 [![Telegram](https://img.shields.io/badge/-Telegram-8DAEF2?style=for-the-badge&logo=telegram)](https://t-do.ru/zyzelq)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-8DAEF2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zyzel/)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zo7olie3ahb76hcz7fy56xlxvm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
