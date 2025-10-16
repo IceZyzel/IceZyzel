@@ -16,11 +16,8 @@ Passionate about automating deployments, scaling applications, and monitoring in
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/-Python-8DAEF2?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-8DAEF2?style=for-the-badge&logo=java)
 ![Bash](https://img.shields.io/badge/-Bash-8DAEF2?style=for-the-badge&logo=gnu-bash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8DAEF2?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-8DAEF2?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-8DAEF2?style=for-the-badge&logo=css3)
 ![Django](https://img.shields.io/badge/-Django-8DAEF2?style=for-the-badge&logo=django)
 ![React](https://img.shields.io/badge/-React-8DAEF2?style=for-the-badge&logo=react)
 
